@@ -1,0 +1,19 @@
+<resources>
+    <string name="celebrity1">Blake Lively</string>
+    <string name="celebrity2">Weeknd</string>
+    <string name="celebrity3">Ariana Grande</string>
+    <string name="celebrity4">Selena Gomez</string>
+    <string name="celebrity5">Mila Kunis</string>
+    <string name="celebrity6">Channing Tatum</string>
+
+
+    <string name="app_name">MobileComputingPrac4</string>
+
+    <string-array name="celebrity_num">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
